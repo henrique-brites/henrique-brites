@@ -1,4 +1,9 @@
-## Olá! Eu sou a Henrique Brites 
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=henrique-brites&repo=henrique-brites&countColorcountColor)
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+
+### I'm a Software Developer living in 🇧🇷 and working at [Cloudfox](https://cloudfox.net).
+
  <div>
   <a href="https://github.com/henrique-brites">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-brites&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -33,22 +38,3 @@
  
 </div>
 
-
-
-<!--
-
-### Hi there 👋
-
-**henrique-brites/henrique-brites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
