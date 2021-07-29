@@ -12,7 +12,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Brites-Php" height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Brites-Laravel" height="30" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  
   <img align="center" alt="Brites-Js" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Brites-Ts" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Brites-React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -28,11 +27,17 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/briteshoficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
-  <a href = "mailto:henriquebrites@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/henrique-brites/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitch.tv/brites_h" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/dAtYpFPq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/briteshoficial" target="_blank"><img src="https://img.shields.io/badge/-briteshoficial-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
+  <a href = "mailto:henriquebrites@live.com"><img src="https://img.shields.io/badge/-henriquebrites@live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/henrique-brites/" target="_blank"><img src="https://img.shields.io/badge/henrique--brites-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitch.tv/brites_h" target="_blank"><img src="https://img.shields.io/badge/-brites__h-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/dAtYpFPq" target="_blank"><img src="https://img.shields.io/badge/-brites__h-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 
+ <!-- <a href="https://instagram.com/briteshoficial" target="_blank"><img src="https://img.shields.io/badge/-briteshoficial-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a> 	
+  <a href = "mailto:henriquebrites@live.com"><img src="https://img.shields.io/badge/-henriquebrites@live.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/henrique-brites/" target="_blank"><img src="https://img.shields.io/badge/henrique--brites-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitch.tv/brites_h" target="_blank"><img src="https://img.shields.io/badge/-brites__h-9146FF?style=flat&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/dAtYpFPq" target="_blank"><img src="https://img.shields.io/badge/-brites__h-7289DA?style=flat&logo=discord&logoColor=white" target="_blank"></a>  -->
  
   ![Snake animation](https://github.com/henrique-brites/henrique-brites/blob/output/github-contribution-grid-snake.svg)
  
